@@ -1,0 +1,12 @@
+{
+  "name": "trw-proxy-vercel",
+  "version": "1.0.0",
+  "description": "Proxy API that forwards to trw.lat and returns the final URL",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
